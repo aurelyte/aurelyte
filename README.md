@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:ee82ee&height=200&section=header&text=Zennova&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Penetration%20Testing%20%7C%20Digital%20Forensics%20%7C%20CTF&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:ee82ee&height=200&section=header&text=Zennova&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Penetration%20Testing%20%7C%20Red%20Teaming%20%7C%20CTF&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=550&lines=Web+Application+Exploitation;Digital+Forensics+%26+Memory+Analysis;CTF+Player+%40+Hack+The+Box;CCUG+Core+Team+Member" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=550&lines=Pentester+%2F+Red+Teamer+in+Training;Currently+Grinding+Web+Exploitation;Hack+The+Box+%40+Machines+%2B+Academy;CCUG+Core+Team+Member" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/mhmdibnurfc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -16,7 +16,9 @@
 
 ```yaml
 role:          Information Systems student @ Gunadarma University
-focus:         Web application security, digital forensics, CTF (forensics main category)
+main_focus:    Pentesting / Red Teaming
+currently:     Learning web exploitation, grinding HTB (Machines + Academy)
+ctf_strength:  Digital forensics (daily Linux user, most familiar category)
 affiliations:  Cyber Community Universitas Gunadarma (CCUG) — Core Team
                Lepkom VM Lab — Course Assistant
 target_cert:   HTB CPTS
