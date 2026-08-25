@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:ee82ee&height=200&section=header&text=Zennova&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Penetration%20Testing%20%7C%20Red%20Teaming%20%7C%20CTF&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:ee82ee&height=200&section=header&text=zennova&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Penetration%20Testing%20%7C%20Red%20Teaming%20%7C%20CTF&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=550&lines=Pentester+%2F+Red+Teamer+in+Training;Currently+Grinding+Web+Exploitation;Hack+The+Box+%40+Machines+%2B+Academy;CCUG+Core+Team+Member" alt="Typing SVG" />
 
