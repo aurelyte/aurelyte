@@ -19,7 +19,6 @@ main_focus:    Pentesting / Red Teaming
 currently:     Learning web exploitation, grinding HTB (Machines + Academy)
 ctf_strength:  Digital forensics (daily Linux user, most familiar category)
 affiliations:  Cyber Community Universitas Gunadarma (CCUG) — Core Team
-               Lepkom VM Lab — Course Assistant
 target_cert:   HTB CPTS
 environment:   CachyOS (Arch Linux)
 ```
